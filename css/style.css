@@ -1,0 +1,44 @@
+#signupForm label.error {
+    color:red;
+    margin-left: 10px;
+    width: auto;
+    display: inline;
+}
+.error {
+color:red;
+}
+body{
+    background-color: black;
+}
+header{
+    
+   background-color:  #322a2a;
+   
+        
+    height:70px;
+   
+}
+#left-nav{
+    float:left;
+}
+#right-nav{
+    float:right;
+}
+a{
+    color:#fff;
+    text-decoration: none;
+}
+ul li{
+    list-style-type: none;
+}
+
+footer{
+    clear:both;
+    background:#322a2a;
+    margin-top: 80px;
+    text-align: center;
+    padding:10px;
+    color: #fff;
+}
+
+
